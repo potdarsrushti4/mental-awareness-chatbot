@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+dist
+.env
+.env*.local
+*.log
+vercel
+.vercel
+
+# environment variables
+.env.local
+.env
+
+# logs
+npm-debug.log*
