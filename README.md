@@ -2,6 +2,13 @@
 
 A beginner-friendly mental wellness chatbot built with Next.js, serverless API routes, and Hugging Face Inference Providers.
 
+## Live Demo
+[https://your-vercel-link.vercel.app](https://mental-awareness-chatbot.vercel.app/)
+
+<p align="center">
+  <img width="700" height="442" alt="Mindful Chat UI" src="https://github.com/user-attachments/assets/6ccebe7b-85c3-4618-bb0e-d944ac8ebe31" />
+</p>
+
 ## Features
 
 - Clean responsive chat UI
